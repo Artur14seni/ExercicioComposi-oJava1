@@ -7,9 +7,6 @@ Este projeto é um sistema de reservas de hotel desenvolvido em *Java, que permi
 
 ## 📊 *Diagrama UML*
 ![Diagrama UML](img/Exercicio4.png)
-
-(Substitua "diagrama.png" pelo nome exato da sua imagem na pasta img.)
-
 ---
 
 ## 📂 *Estrutura do Projeto*  
@@ -68,5 +65,4 @@ Este projeto é um sistema de reservas de hotel desenvolvido em *Java, que permi
 ## ▶️ *Como Executar*
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   https://github.com/Artur14seni/ExercicioComposi-oJava1.git
